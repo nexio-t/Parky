@@ -6,15 +6,13 @@ Need parking in Philly? Enter Parky, the airBnb for parking spots. With Parky, u
 
 ## Getting Started
 
-Create an account, or use our demo accounts:
+Create an account, or use the following demo account:
 
 > "Power User"
-> Username: user
-> Password: test
+> Username: example
+> Password: example 
 
-> "Listing Owner"
-> Username: owner
-> Password: test
+Search for parking between the days of April 26-30 (inclusive) in "Graduate Hospital Philadelphia" or use the address "2105 South Street Philadelphia, PA 19146".
 
 ### Login
 
