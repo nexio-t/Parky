@@ -26,9 +26,10 @@ Users may login using their account information or sign up for a new account by 
 
 After logging in, users are redirected to the Search page where users may search for parking spots available for rent by location and date. Users can also complete bookings from this page via the "Book Now" buttons in the search results.
 
+Our app assumes that renters would book a spot for an entire day, so we support searches across individual days or a range of dates. 
+
 <img src="./assets/search.png" width="600">
 
-Our app assumes that renters would book a spot for an entire day, so we support searches across individual days or a range of dates. 
 
 ### Create Listing
 
