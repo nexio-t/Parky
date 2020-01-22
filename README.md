@@ -60,14 +60,7 @@ You may view a demo of Parky in action [here](https://drive.google.com/file/d/1A
 - JavaScript (ES6)
 - Mongoose
 - Passport.js
-
-### Node Packages used:
-
-- Mongoose
-- DotEnv
-- Material UI
-- Axios
-- Moment.js
+- Moment.js 
 
 ## Authors:
 
