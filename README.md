@@ -2,11 +2,7 @@
 
 ## Overview
 
-Parky is a full-stack web application that allows users to search, list, and rent private parking spaces.
-
-> Deployed Link: [See Here](https://parky-app.herokuapp.com/)
-
-> Repository: [See Here](https://github.com/Abraval/Parky)
+Need parking in Philly? Enter Parky, the airBnb for parking spots. With Parky, users may create parking listings, search for spaces by address, reserve spaces, and update or cancel reservations across a range of days in Philly.
 
 ## Getting Started
 
@@ -22,19 +18,21 @@ Create an account, or use our demo accounts:
 
 ### Login
 
-Users can login using their account information or sign up for a new account by clicking the link.
+Users may login using their account information or sign up for a new account by clicking the Sign Up link.
 
 <img src="./assets/login.png" width="600">
 
 ### Search
 
-After logging in, users are redirected to the Search page where users can search for parking spots available for rent by location and date. Users can also complete bookings from this page via the "Book Now" buttons in the search results.
+After logging in, users are redirected to the Search page where users may search for parking spots available for rent by location and date. Users can also complete bookings from this page via the "Book Now" buttons in the search results.
 
 <img src="./assets/search.png" width="600">
 
+Our app assumes that renters would book a spot for an entire day, so we support searches across individual days or a range of dates. 
+
 ### Create Listing
 
-Users can create listings for their own parking spots under the "Create" section of the application. This is done through a stepper component where users are guided through submitting listing details, choosing availability, and confirming the new listing.
+Users may create listings for their own parking spots by clicking Create in the nav bar. This is accomplished with a stepper component in wihich users are guided through defining their listing, submitting the listing's availability, and confirming its details.
 
 <img src="./assets/create.png" width="600">
 
@@ -53,8 +51,8 @@ The reservation view allows users to see all upcoming reservations on parking sp
 - React
 - Express
 - Node.js
-- Mongo DB
-- JavaScript
+- MongoDB
+- JavaScript (ES6)
 - Mongoose
 - Passport.js
 
