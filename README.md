@@ -46,6 +46,10 @@ The reservation view allows users to see all upcoming reservations on parking sp
 
 ### Video Demo
 
+I created the mockups of Parky using Adobe XD, which guided our design. You may view the mockup [here](https://xd.adobe.com/view/c6966fad-f482-419d-7cab-4c6a80ca48b2-b0a7/).
+
+### Video Demo
+
 You may view a demo of Parky in action [here](https://drive.google.com/file/d/1AAVcX84GiEGtJHeR3OkabpMvZM8iDKl2/view).
 
 ## Technologies Used
@@ -58,6 +62,7 @@ You may view a demo of Parky in action [here](https://drive.google.com/file/d/1A
 - Mongoose
 - Passport.js
 - Moment.js 
+- Adobe XD
 
 ## Authors:
 
