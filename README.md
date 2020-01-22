@@ -47,7 +47,7 @@ The Listings view allows users to see all of their active listings as well as ed
 
 The reservation view allows users to see all upcoming reservations on parking spots with the ability to cancel reservations entirely or partially (for multi-day reservations).
 
-### Dashboard
+### Video Demo
 
 You may view a demo of Parky in action [here](https://drive.google.com/file/d/1AAVcX84GiEGtJHeR3OkabpMvZM8iDKl2/view).
 
